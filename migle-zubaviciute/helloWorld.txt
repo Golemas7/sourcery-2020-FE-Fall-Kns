@@ -1,1 +1,2 @@
 Hello from feature branch!\ and\ Hello from merge-conflict branch!\ after successful merge conflict
+** changes to be reverted
