@@ -1,1 +1,4 @@
-This will be reverted to Hello
+Hello from feature branch!
+and
+Hello from merge-conflict branch!
+after successful merge conflict
